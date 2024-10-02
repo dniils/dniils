@@ -1,4 +1,4 @@
-### 🔗 [dniils.github.io](https://dniils.github.io/)
+### 🔗 [dniils.netlify.app/projects](https://dniils.netlify.app/projects)
 
 <!-- #### Projects I have worked on:
 ✨**Quiz App** [ [repo](https://github.com/dniils/quiz) ]
